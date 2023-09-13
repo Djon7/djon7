@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm from Uzbekistan 👋  
+저는 도니요르입니다, 서울과학기술대학교에서 컴튜터공학과를 재학중입니다.  
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **Djon7/djon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
